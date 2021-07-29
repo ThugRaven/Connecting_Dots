@@ -1,0 +1,52 @@
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	position: relative;
+}
+
+.loading {
+	display: none;
+}
+
+.loading::before {
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	margin: auto;
+	height: 5em;
+	width: 5em;
+	border-radius: 50%;
+	border: 0.5em solid transparent;
+	border-color: white white white transparent;
+	animation: spinner 0.75s linear infinite;
+}
+
+@keyframes spinner {
+	0% {
+		transform: rotate(0deg);
+	}
+	100% {
+		transform: rotate(360deg);
+	}
+}
+
+.audio__icon {
+	width: 2.5em;
+	height: 2.5em;
+	position: absolute;
+	fill: white;
+	cursor: pointer;
+}
+
+#audio__file {
+	display: none;
+}
