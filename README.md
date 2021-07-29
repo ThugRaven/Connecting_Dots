@@ -21,4 +21,6 @@ c | Enable/Disable hand placing dots
 r | Remove all hand placed dots
 Delete | Remove chosen (manually placed) dot
 
+## Issues
+
 **Loading new audio files produces a [memory leak](https://github.com/processing/p5.js-sound/issues/88)**
