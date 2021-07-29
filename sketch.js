@@ -132,6 +132,7 @@ function keyPressed() {
 		case 32:
 		case 75:
 			// space
+			// k
 			if (sound != null && sound.isPlaying()) {
 				sound.pause();
 			} else if (sound != null) {
