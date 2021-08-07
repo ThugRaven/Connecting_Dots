@@ -4,6 +4,10 @@ Connecting, audio responsive dots made using p5.js with YouTube-like player and 
 
 ![Project Image](project.png)
 
+## Setup
+
+To run this project you need to use Local Server
+
 ## Inspiration
 
 Inspired by Wallpaper Engine [custom wallpaper](https://steamcommunity.com/sharedfiles/filedetails/?id=819343682)
