@@ -8,6 +8,8 @@ Connecting, audio responsive dots made using p5.js with YouTube-like player and 
 
 To run this project you need to use Local Server
 
+Click the music note icon in the top left corner, choose your favorite song and enjoy 
+
 ## Inspiration
 
 Inspired by Wallpaper Engine [custom wallpaper](https://steamcommunity.com/sharedfiles/filedetails/?id=819343682)
