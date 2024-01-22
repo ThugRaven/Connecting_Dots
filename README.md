@@ -4,6 +4,10 @@ Connecting, audio responsive dots made using p5.js with YouTube-like player and 
 
 ![Project Image](project.png)
 
+## Demo
+
+Live demo: https://thugraven.github.io/Connecting_Dots/
+
 ## Setup
 
 To run this project you need to use Local Server
